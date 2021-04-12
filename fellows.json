@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Dawood Khan",
+        "email": "dawood@gmail.com",
+        "education": "NYU CS 2016",
+        "about": "Dawood worked at DJI in the drone department. His interest is in podcasts.",
+        "site": "https://linkedin.com/in/dawood",
+        "image": "ali_abid.jpg",
+        "mentor": "Abubakar Abid"
+    },
+    {
+        "name": "Ali Abdallah",
+        "email": "aliabd@gmail.com",
+        "education": "MIT 2016",
+        "about": "Ali worked at Tesla. He hated Tesla.",
+        "site": "https://linkedin.com/in/aliabd",
+        "image": "ali_abd.jpg",
+        "mentor": "Ali Abid"
+    },
+    {
+        "name": "Ali Abdallah",
+        "email": "aliabd@gmail.com",
+        "education": "MIT 2016",
+        "about": "Ali worked at Tesla. He hated Tesla.",
+        "site": "https://linkedin.com/in/aliabd",
+        "image": "ali_abd.jpg",
+        "mentor": "Ali Abid"
+    }
+]
