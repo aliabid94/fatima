@@ -2,6 +2,7 @@ body {
 	background: #fff;
 	color: #444;
 	font-family: 'Open Sans', sans-serif;
+	position: relative;
 }
 
 a {
@@ -1096,6 +1097,13 @@ section {
 #team .member .social i {
 	font-size: 16px;
 	margin: 0 2px;
+}
+
+/* List
+-----------------------*/
+.list-item {
+padding: 10px;
+margin: 10px;
 }
 
 /* Contact Section
