@@ -3,8 +3,11 @@ body {
 	color: #444;
 	font-family: 'Open Sans', sans-serif;
 	position: relative;
+	min-height: 100vh;
 }
-
+main {
+	padding-bottom: 75px;
+}
 a {
 	color: #ce9637;
 	text-decoration: none;
@@ -14,7 +17,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-	color: #51d8af;
+	color: #004343;
 	outline: none;
 	text-decoration: none;
 }
@@ -235,7 +238,7 @@ h6 {
 .navbar .dropdown ul a {
 	padding: 10px 20px;
 	font-size: 14px;
-    color: #004343;
+	color: #004343;
 }
 
 .navbar .dropdown ul a i {
@@ -1102,8 +1105,8 @@ section {
 /* List
 -----------------------*/
 .list-item {
-padding: 10px;
-margin: 10px;
+	padding: 10px;
+	margin: 10px;
 }
 
 /* Contact Section
@@ -1280,6 +1283,10 @@ margin: 10px;
 	background: #f2f5f8;
 	padding: 0 0 30px 0;
 	font-size: 14px;
+	position: absolute;
+	bottom: 0;
+	height: 75px;
+	width: 100%;
 }
 
 #footer .copyright {
